@@ -16,3 +16,5 @@
 
 ## Запуск
 `streamlit run project.py`
+
+![](clustering_with_kohonenNN_vs_kmeans-/start_page.jpg)
